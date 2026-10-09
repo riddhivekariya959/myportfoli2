@@ -1,0 +1,109 @@
+.d1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.d2 {
+    
+    font-size: xx-large;
+    text-align: center;
+    font-style: italic;
+    color: rgb(91, 90, 90);
+    text-transform: capitalize;
+}
+
+.d3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    text-align: center;
+    text-decoration: underline;
+    font-size: large;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.d4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+    font-weight: 500;
+    font-size:larger;
+    text-transform: capitalize;
+
+}
+.d5 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: large;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+.d6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+    font-weight:500;
+    font-size:larger;
+    line-height: 2;
+   text-transform:capitalize;
+}
+
+.d7 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: large;
+    font-weight: bold;
+     text-decoration: underline;
+     text-transform: capitalize;
+
+}
+
+.d8 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+    font-weight: 500;
+    font-size: larger;
+    line-height: 2;
+     text-transform:capitalize;
+}
+.d9 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size:large;
+    font-weight: bold;
+     text-decoration: underline;
+     text-transform: capitalize;
+    
+}
+.d10 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+    font-weight: 500;
+    font-size: larger;
+    line-height: 2;
+    text-transform:capitalize;
+}
+
+    .d11 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size:large;
+    font-weight:bold;
+    text-decoration: underline;
+    text-transform: capitalize;
+
+}
+.d12 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+    font-weight: 500;
+    font-size:larger;
+    line-height: 2;
+text-transform: capitalize;}

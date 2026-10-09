@@ -1,0 +1,135 @@
+.a1 {
+    height: 100px;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+.a2 {
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+}
+
+.a12 {
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+.box1 {
+    background-color: antiquewhite;
+    font-size: large;
+    width: 100px;
+    height: 90px;
+}
+
+.a3 {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a4 {
+    display: flex;
+    justify-content: space-between;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a5 {
+    display: flex;
+    justify-content: space-around;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a6 {
+    display: flex;
+    justify-content: space-evenly;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    flex-wrap: wrap;
+    margin: 20px;
+
+}
+
+.a7 {
+    display: flex;
+    align-items: flex-start;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a8 {
+    display: flex;
+    align-content:flex-end;
+    flex-wrap: wrap;
+    height: 400px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+
+.a9 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a10 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a11 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a12 {
+    display: flex;
+   flex-wrap: wrap;
+    align-content: space-around;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+    margin: 20px;
+}
+
+.a13 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    margin: 20px;
+    height: 350px;
+    background-color: rgb(201, 204, 16);
+
+}
+
+
+
+.s1 {
+    background-color: gray
+}

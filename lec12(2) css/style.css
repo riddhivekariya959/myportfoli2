@@ -1,0 +1,159 @@
+.s1{background-color: gray}
+
+
+.a1{height: 100px ;
+color: white;
+font-size: 50px;
+text-align: center;
+justify-content: center;
+background-color: gray;
+}
+.a2{height: 350px;
+background-color: rgb(201, 204, 16);
+ display: flex;
+    flex-direction: row;
+margin: 20px;}
+
+.box1{ 
+    flex-basis: 30px;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box2{
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box3{
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box4{ 
+ flex-grow: 0.5;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+
+.box5{flex-shrink:0;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box6{flex-shrink:1;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box7{ 
+ flex-shrink:2;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+
+.box8{ 
+ order: 3;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+
+.box9{order: 4;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box10{order: 2;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box11{ 
+ order: 1;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+
+.box12{align-self: flex-start;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box13{
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box14{background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box15{
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box16{align-self: center;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box17{background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+
+.box18{align-self: stretch;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+}
+
+.box19{
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box20{background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box21{align-self: baseline;
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box22{
+background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}
+
+.box23{background-color: antiquewhite;
+font-size: large;
+width:100px;
+height: 90px;}

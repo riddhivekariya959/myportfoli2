@@ -1,0 +1,190 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.part1 {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.font {
+    color: white;
+    font-size: 30px;
+}
+
+.menu {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.menu:hover {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
+
+.header2 {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+
+.h1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#17181e;
+    padding: 0px 20px;
+    margin: 0px;
+    position: sticky;
+    top: 0px;
+
+}
+
+.button1 {
+    color: white;
+    background-color: rgb(8, 112, 248);
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.drop-down-main {
+    position: relative;
+}
+
+.drop-down-main:hover .drop-down {
+    display: block;
+
+}
+
+.drop-down {
+    position: absolute;
+    right: -200px;
+    top: 30px;
+    display: none;
+}
+
+
+.drop-down-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    background-color: rgb(147, 172, 214);
+    border-radius: 20px;
+    padding: 10px 10px 0px 10px;
+}
+
+
+.section2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px;
+}
+
+.font1{font-size: 50px;
+color: white;}
+
+.p1 {
+    color: white;
+    font-size: 20px;
+}
+
+.button2 {
+    color: black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    transition: all 0.5s;
+}
+
+.button2:hover {
+    background-color: rgb(227, 225, 225);
+    color: rgb(64, 64, 64);
+    transform: scale(1.1);
+}
+
+.h2 {
+    margin-left: 50px;
+}
+
+
+.poster1 {
+    width: 900px;
+    height: 650px;
+    border-radius: 20px;
+}
+
+.h3 {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+.last{background-color: #222222;
+    height: 160px;
+}
+
+.logo{
+text-align: center;}
+
+.logo1{width: 200px;
+height: 100px;
+background-color: #222222;
+}
+
+.p2{color: #2267d3;
+font-size: 15px;
+text-align: center;
+line-height: 40px;}
+
+.p3{color:#84978f;
+font-size: 15px;
+text-align: center;}
+
+
+.lastcards{display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 850px;
+padding: 30px;
+
+}
+
+.card1{width: 250px;
+height: 150px;
+background-color: rgb(155, 199, 237);
+border-radius: 20px;
+margin: 10px;
+}
+
+
+.img1{width: 150px;
+height: 100px;
+border-radius: 20px;
+margin: 30px
+}
+
+.img2{
+font-size: 40px;
+
+color: white;
+padding: 10px 50px ;
+}

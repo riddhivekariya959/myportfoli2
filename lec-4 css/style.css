@@ -1,0 +1,69 @@
+body{padding: 0%;
+margin: 0%;}
+
+
+
+.bg2 {
+    background-image: url(./n.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.bg3 {
+    background-image: linear-gradient(45deg,pink, rgb(97, 97, 186));
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 600;
+}
+
+.bg4 {
+    background-image: radial-gradient(rgb(176, 23, 48), rgb(5, 5, 45));
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 600;
+}
+
+.bg5 {
+    background-image:  conic-gradient(rgb(91, 7, 21), rgb(34, 34, 167));
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 600;
+}
+
+
+.bg1 {
+    background-size: cover;
+    width: 100vw;
+    height: 50px;
+    background-attachment: fixed;
+    text-align: center;
+    background-color: rgb(27, 30, 30);
+    color: aliceblue;
+    font-weight: 700;
+    font-size: large;
+}
+
+.bg6{font-size:large ;
+font-weight: bold;
+border: solid rgb(216, 186, 85); padding: 30px;}
+
+.bg7{text-align: center;
+margin: 100px;}
+
+.bg8{font-weight: bold;}
+
+.bg9{border:solid black;}
