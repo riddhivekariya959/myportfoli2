@@ -19,13 +19,23 @@
         integrity="sha512-QeR2VH+lsBE5LSAe1Q5EnTBbe7XTBubt8dG93Y7gidSgdMCr8nVqKcfKAMyN96SV8KDbZVTDXChatu5G2KQGzg=="
         crossorigin="anonymous" referrerpolicy="no-referrer">
     <style>
-        .bg {
-            background-color: rgb(237, 242, 242);
+       .bg{background-color: rgb(0, 0, 0);;
+            color: white;}
+
+            .a1{background-color: rgb(32, 32, 32);}
+
+             .card {
+            background: transparent;
+            border: 2px solid #0d6efd;
+            border-radius: 10px;
+            transition: all 0.3s ease;
             color: white;
         }
 
-        .a1 {
-            background-color: rgb(13, 13, 43);
+        .card:hover {
+            border-color: #00c6ff;
+            transform: translateY(-8px);
+            box-shadow: 0 0 20px rgba(98, 192, 250, 0.4);
         }
     </style>
 </head>
@@ -37,8 +47,8 @@
         <div class="text-white">My bootstrap Practice Programs</div>
     </div>
     <div class="text-center mt-5">
-        <div class=" h1" style="color: black;"> My Projects</div>
-        <div class="text-body-secondary h5">Select a category to view all programs</div>
+        <div class=" h1" style="color:white;"> My Projects</div>
+        <div class="text-white h5">Select a category to view all programs</div>
     </div>
 
     <div class="container-fluid mt-5 mb-5">
@@ -46,7 +56,7 @@
 
             <div class="row justify-content-center align-items-center ">
                 <div class="col-12 col-md-6  col-lg-4">
-                    <div class="card my-3" style="background-color: white; border: none;">
+                    <div class="card my-3" style="background-color:#181b21; border: none;">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fa-solid fa-code h2  "></i></h5>
                             <div class="h4 mb-4">task1</div>
@@ -59,7 +69,7 @@
                 <div class="col-12 col-md-6   col-lg-4">
 
                     <!--card2-->
-                    <div class="card my-3" style="background-color: white; border: none;">
+                    <div class="card my-3" style="background-color:#181b21; border: none;">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fa-solid fa-code h2  "></i></h5>
                             <div class="h4 mb-4">task2</div>
@@ -73,7 +83,7 @@
 
 
                 <div class="col-12 col-md-6   col-lg-4">
-                    <div class="card my-3" style="background-color: white; border: none;">
+                    <div class="card my-3" style="background-color:#181b21; border: none;">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fa-solid fa-code h2  "></i></h5>
                             <div class="h4 mb-4">task3</div>
